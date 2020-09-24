@@ -55,7 +55,7 @@ header{
     border: none;
     color: white;
     background-color: orange;
-    border-radius: 25px;
+    border-radius: 50px 50px 20px 20px;
     font-weight: bold;
     margin-top: 100px;
 }
